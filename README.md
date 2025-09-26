@@ -4,5 +4,5 @@
 
 
 
-# This is Lab 1 for Tonia Williams
+# This is Lab 2 for Tonia Williams
 
